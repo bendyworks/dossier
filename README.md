@@ -1,24 +1,23 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Bendyworks Senior Developers
 
-Things you may want to cover:
+* Ben Dockery: https://docs.google.com/document/d/1okm436dctFAy0M_8AYzse0gEc1hjIHwl7nmxar-FMEQ/edit
 
-* Ruby version
+* Jacob Ela: https://docs.google.com/document/d/1cIAUkUuLysoLVTGS_Q0ySzSaNPlAy00l-WUktpjvLE8/edit
 
-* System dependencies
+* Ryan Krug: https://docs.google.com/document/d/1sr9IZEr5I29yrZdaGPN7nPnmxjgzVihqx1pIE25fM-o/edit
 
-* Configuration
+* Roger Roelofs: https://docs.google.com/document/d/1GIKfBfwHWbtGdjno7PdBEyONdAyzKkC7BzgDTlOExZU/edit?usp=sharing
 
-* Database creation
+* Kevin Sage: https://docs.google.com/document/d/1ZFrY8DusfZ99rLScRYRMnVFRFMupFdh_fuvoz5RkHKU/edit?usp=sharing
 
-* Database initialization
+* Peter Schuck: https://docs.google.com/document/d/1nRaMos-kg6zWKGzgmOJZSDSsLHzKFl7b8GpnwOFZz_U/edit
 
-* How to run the test suite
+* Valerie Shoskes: https://docs.google.com/document/d/1gLaDI8MaqMdOPYNWPR7xSE5OYK6ZgyQFEX1y8HRJYaE/edit
 
-* Services (job queues, cache servers, search engines, etc.)
+* Amy Terry-Penak: https://docs.google.com/document/d/1CHMCytkEN5xX9N11PZBTzJ83yMHpyOMVkbYNGPTIJ3w/edit
 
-* Deployment instructions
+* Andrew Assarattanakul: https://docs.google.com/document/d/17Dd6MAoNSMbl3n0mFGrtM9oTt842NA2hqoGwvlEMwlM/edit
 
-* ...
+* Valerie Burzynski: https://docs.google.com/document/d/1IZDrZB-6bItf0FC97TMz4hnlfK1awYZx6rjfbKLL33Y/edit
